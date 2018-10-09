@@ -8,7 +8,7 @@
 Этот интернет-сервис позволит Вам сохранять посты "Вконтакте", а тажке поможет разбивать их в тематические коллекции. 
 Таким образом можно больше не бояться, что нужный Вам пост исчезнет через какое-то время! Больше не нужно пролистывать всю свою стенку/сохранённые сообщения/свой паблик,чтобы найти когда-то сохранённую информацию - возможность разбивать посты на категории поможет справиться с этой задачей намного быстрее!
 
-API: [Вконтакте API] (https://vk.com/dev/methods)
+API: [Вконтакте API](https://vk.com/dev/methods)
 Routing: 3 страницы (на данном этапе
          - главная страница с коллекциями
          - страница, содержащая посты (открывается после перехода в какау-либо определенную коллекцию постов)
@@ -20,6 +20,6 @@ Module bundler:
 Declarative component-based view library/framework: 
 Data manipulation library:
 CSS framework / UI Kit:
-Data visualization library: [PixiJS] (http://www.pixijs.com/gallery)
+Data visualization library: [PixiJS](http://www.pixijs.com/gallery)
 
 
