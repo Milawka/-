@@ -1,0 +1,26 @@
+#searchForm{
+    display: flex;
+    justify-content: center;
+}
+
+.smallPic {
+    height: 14px;
+}
+
+#bigBox{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.directory {
+    display: flex;
+    border:5px solid white;
+    background: #ff9999;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    color:#ffffff;
+    font-weight: bold;
+
+}
