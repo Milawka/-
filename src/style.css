@@ -1,4 +1,4 @@
-#searchForm{
+.searchForm{
     display: flex;
     justify-content: center;
 }
@@ -7,20 +7,46 @@
     height: 14px;
 }
 
-#bigBox{
+.bigBox{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
 }
 .directory {
     display: flex;
-    border:5px solid white;
+    border:20px solid white;
     background: #ff9999;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     justify-content: center;
     align-items: center;
     color:#ffffff;
     font-weight: bold;
 
+}
+.postSnapshot{
+    display: flex;
+    border:20px solid white;
+    height: 250px;
+    width: 250px;
+    flex-direction: column
+
+}
+
+.post{
+    display: flex;
+    border:50px solid white;
+    height: 950px;
+    width: 830px;
+    flex-direction: column;
+    align-content: center
+}
+
+.pictureInsidePost{
+    display: flex;
+    border:50px solid white;
+}
+
+.links{
+    text-decoration: none;
 }
